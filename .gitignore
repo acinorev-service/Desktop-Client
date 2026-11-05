@@ -1,0 +1,28 @@
+## .NET build
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.tmp
+*.log
+
+## Visual Studio
+.vs/
+.vscode/
+.idea/
+*.user
+
+## Avalonia / XAML designer caches
+*.rsuser
+*.resx.user
+
+## Local app data
+AppData/
+*.db
+*.sqlite
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
